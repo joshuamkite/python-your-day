@@ -1,4 +1,4 @@
-# Historical Weather and Events Application
+# Python Your Day
 
 This project combines several independent scripts into a modular Python application, serving as a demonstration in structuring multi-file Python projects. It fetches historical weather data from [open-meteo](https://open-meteo.com/), calculates the day of the week for any date (since 1754), and retrieves historical events that occurred on that date from [Wikimedia](https://api.wikimedia.org/wiki/Feed_API/Reference/On_this_day). The functionality is equivalent to the [React/Next.js version running on my website](https://www.joshuakite.co.uk/historical-day/index.html) with [code on GitHub](https://github.com/joshuamkite/react-your-day).
 
